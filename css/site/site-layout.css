@@ -1,6 +1,6 @@
 body {
   padding: 2em;
-  background-color: #010C15;
+  background-color: #243849;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
@@ -12,6 +12,7 @@ body {
   background-color: #011627;
   color: #FFF;
   border: 1px solid #1E2D3D;
-  width: 100%;
   max-width: 1200px;
+  width: 100%;
+  border-radius: 8px;
 }

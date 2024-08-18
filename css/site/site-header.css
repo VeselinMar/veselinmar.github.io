@@ -1,6 +1,7 @@
 .site-header {
   display: flex;
   justify-content: space-between;
+  border-bottom: 1px solid #1E2D3D;
 }
 
 .site-header .site-title{
@@ -16,6 +17,7 @@
 .site-header .site-title a {
   text-decoration: none;
   padding: 0.8em 1em;
+  padding-right: 5em;
 }
 
 .site-header .main-nav {
